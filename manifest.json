@@ -1,0 +1,16 @@
+{
+  "name": "Redraw",
+  "short_name": "Redraw",
+  "description": "Draw it. Guess it. Run it back. A multiplayer drawing and guessing game.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#13338f",
+  "theme_color": "#1c3fb7",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
